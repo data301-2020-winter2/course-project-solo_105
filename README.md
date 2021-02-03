@@ -4,8 +4,8 @@
 - Your title can change over time.
 
 ## Milestones
-
-Milestone 1
+ 
+# Milestone 1
  - Project Setup. 
  - Choosing a topic and a dataset and get it approved.
  - Introduce and describe the dataset and topic.
