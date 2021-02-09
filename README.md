@@ -49,6 +49,6 @@ This dataset contains 1,338 records(rows), each with 7 attributes(columns). The 
 
 ## References
 
-Acknowledgement: 
+### Acknowledgement: 
 The dataset is available on both GitHub [https://github.com/stedy/Machine-Learning-with-R-datasets] and Kaggle [https://www.kaggle.com/mirichoi0218/insurance/home]
 
