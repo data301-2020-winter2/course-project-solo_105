@@ -10,7 +10,7 @@
  - Choosing a topic and a dataset and get it approved.
  - Introduce and describe the dataset and topic.
  - Load the dataset from a file or URL.
- - Bubmitsion of the URL to the project GitHub repository.
+ - Submision of the URL to the project GitHub repository.
 
 ## Describe your topic/interest in about 150-200 words
 
