@@ -12,13 +12,16 @@
  - Submision of the URL to the project GitHub repository.
  
  ### Milestone 2
- -  
- - 
- - 
- - 
- - 
+ - Introduction to Markdown
+ - Introduction to Git merges, branches, and more
+ - Method Chaining and Python Programs
+ --- Build and test the method chain(s)
+ --- Wrap your method chain(s) in a function
+ --- Move your function into a new .py file
+ - Conduct an Exploratory Data Analysis (EDA) on the dataset
+ - Conduct analysis to help answer the research question(s)
 
-## Describe your topic/interest in about 150-200 words
+## Description of the topic(in about 150-200 words)
 
 I have chosen to work on Medical cost dataset (**insurance.csv**). I think, this dataset was primarily developed for the insurance forecast and it can help medical insurance companies to develop more accurate pricing models and plan a better insurance outcome. This Medical cost dataset contains the Medical Insurance Cost/charge of a small sample of USA population based on some attributes such as age, gender, body mass index (BMI), number of children, smoker/non-smoker, residential area. 
 
@@ -38,13 +41,13 @@ This dataset contains some health-related information which I found very interes
 This dataset contains 1,338 records(rows), each with 7 attributes(columns). The attribute “charges” indicates the medical costs billed by health insurance company. The rest of the columns contain personal information such as age, gender, family status, and whether the patient smokes or not etc.
 
 ### Attributes/Columns:
- [1]	age: Age of the patient. [Ordinal]
- [2]	sex: Patient’s gender, female/male. [Categorical]
- [3]	bmi: Body Mass Index (A measure of body fat based on height and weight that of adult men and women, ideally 18.5 to 24.9). [Quantitative]
- [4]	children: Number of children covered by insurance. [Quantitative]
- [5]	smoker: Whether the patient smokes or not. [Categorical]
- [6]	region: Patient’s residential area: northeast, southeast, southwest, northwest. [Categorical]
- [7]	charges: Individual medical costs billed by health insurance company. [Quantitative]
+1.	age: Age of the patient. [Ordinal]
+2.	sex: Patient’s gender, female/male. [Categorical]
+3.	bmi: Body Mass Index (A measure of body fat based on height and weight that of adult men and women, ideally 18.5 to 24.9). [Quantitative]
+4.	children: Number of children covered by insurance. [Quantitative]
+5.	smoker: Whether the patient smokes or not. [Categorical]
+6.	region: Patient’s residential area: northeast, southeast, southwest, northwest. [Categorical]
+7.	charges: Individual medical costs billed by health insurance company. [Quantitative]
 
 
 ## Team Members
@@ -56,5 +59,5 @@ This dataset contains 1,338 records(rows), each with 7 attributes(columns). The 
 ## References
 
 ### Acknowledgement: 
-The dataset is available on both [!Github](https://github.com/stedy/Machine-Learning-with-R-datasets) and [!kaggle](https://www.kaggle.com/mirichoi0218/insurance/home)
+The dataset is available on both [![Github](https://github.com/stedy/Machine-Learning-with-R-datasets)] and [![kaggle](https://www.kaggle.com/mirichoi0218/insurance/home)]
 
