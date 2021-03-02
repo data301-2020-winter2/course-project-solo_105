@@ -15,9 +15,9 @@
  - Introduction to Markdown
  - Introduction to Git merges, branches, and more
  - Method Chaining and Python Programs
-   -- Build and test the method chain(s)
-   -- Wrap your method chain(s) in a function
-   -- Move your function into a new .py file
+   - Build and test the method chain(s)
+   - Wrap your method chain(s) in a function
+   - Move your function into a new .py file
  - Conduct an Exploratory Data Analysis (EDA) on the dataset
  - Conduct analysis to help answer the research question(s)
 
@@ -59,5 +59,5 @@ This dataset contains 1,338 records(rows), each with 7 attributes(columns). The 
 ## References
 
 ### Acknowledgement: 
-The dataset is available on both [![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/stedy/Machine-Learning-with-R-datasets) and [![kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/mirichoi0218/insurance/home)
+The dataset is available on both [Github](https://github.com/stedy/Machine-Learning-with-R-datasets) and [kaggle](https://www.kaggle.com/mirichoi0218/insurance/home)
 
