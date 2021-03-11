@@ -21,7 +21,7 @@
  - Conduct an Exploratory Data Analysis (EDA) on the dataset
  - Conduct analysis to help answer the research question(s)
 
-## Description of the topic(in about 150-200 words)
+## Description of the topic:
 
 I have chosen to work on Medical cost dataset (**insurance.csv**). I think, this dataset was primarily developed for the insurance forecast and it can help medical insurance companies to develop more accurate pricing models and plan a better insurance outcome. This Medical cost dataset contains the Medical Insurance Cost/charge of a small sample of USA population based on some attributes such as age, gender, body mass index (BMI), number of children, smoker/non-smoker, residential area. 
 
@@ -42,7 +42,7 @@ This dataset contains some health-related information which I found very interes
 10.	What are the numbers of persons with different weight status?
 
 
-## Description of the dataset(in about 150-200 words)
+## Description of the dataset:
 
 ### Dataset Specifications:
 This dataset contains 1,338 records(rows), each with 7 attributes(columns). The attribute “charges” indicates the medical costs billed by health insurance company. The rest of the columns contain personal information such as age, gender, family status, and whether the patient smokes or not etc.
