@@ -27,12 +27,19 @@ I have chosen to work on Medical cost dataset (**insurance.csv**). I think, this
 
 ### Interest in this dataset:
 This dataset contains some health-related information which I found very interesting. I am always very interested to know how health factors are related to living habits and area of living. The dataset can answer to some possible queries (might change or add some other later as the project develops over time) which I want to explore:
-1.	Is there any relationship between age/sex and bmi or bmi and smoking habit?
-2.	People of which area are more likely to be smoker or more likely to be healthy with standard BMI?
-3.	Which area charges the highest?
-4.	Relationship between no of children and charges?
-5.	How the attributes like age and sex are related to charges?
-6.	Relationship between age and smoking habit.
+
+#### Research Questions:
+
+1.	How smoking habit impacts the medical cost?
+2.	Is there any relationship between having children and being healthy?
+3.	Does the gender has any role in being smoker?
+4.	Which region charges the most?
+5.	What is the relationship among charges, region, and gender?
+6.	Which region has the most smoker?
+7.	Which region has the maximum number of insurance holders?
+8.	Is there any impact of gender on the weight?
+9.	Are healthy weight and insurance cost related to gender or smoking habit?
+10.	What are the numbers of persons with different weight status?
 
 
 ## Description of the dataset(in about 150-200 words)
@@ -41,13 +48,13 @@ This dataset contains some health-related information which I found very interes
 This dataset contains 1,338 records(rows), each with 7 attributes(columns). The attribute “charges” indicates the medical costs billed by health insurance company. The rest of the columns contain personal information such as age, gender, family status, and whether the patient smokes or not etc.
 
 ### Attributes/Columns:
-1.	**age:** Age of the patient. [Ordinal]
+1.	**age:** Age of the patient. [Numeric]
 2.	**sex:** Patient’s gender, female/male. [Categorical]
-3.	**bmi:** Body Mass Index (A measure of body fat based on height and weight that of adult men and women, ideally 18.5 to 24.9). [Quantitative]
-4.	**children:** Number of children covered by insurance. [Quantitative]
+3.	**bmi:** Body Mass Index (A measure of body fat based on height and weight that of adult men and women, ideally 18.5 to 24.9). [Numeric]
+4.	**children:** Number of children covered by insurance. [Numeric]
 5.	**smoker:** Whether the patient smokes or not. [Categorical]
 6.	**region:** Patient’s residential area: northeast, southeast, southwest, northwest. [Categorical]
-7.	**charges:** Individual medical costs billed by health insurance company. [Quantitative]
+7.	**charges:** Individual medical costs billed by health insurance company. [Numeric]
 
 
 ## Team Members
