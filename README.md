@@ -41,6 +41,8 @@ This dataset contains some health-related information which I found very interes
 9.	Are healthy weight and insurance cost related to gender or smoking habit?
 10.	What are the numbers of persons with different weight status?
 
+See the analysis [Github](https://github.com/stedy/Machine-Learning-with-R-datasets) and [kaggle](https://www.kaggle.com/mirichoi0218/insurance/home)
+
 
 ## Description of the dataset:
 
