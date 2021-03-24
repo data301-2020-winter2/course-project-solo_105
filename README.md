@@ -20,6 +20,15 @@
    - Move your function into a new .py file
  - Conduct an Exploratory Data Analysis (EDA) on the dataset
  - Conduct analysis to help answer the research question(s)
+ 
+  ### Milestone 3
+ - Address project feedback(Fixed the issues provided by TA as feedback on Milestone 2)
+ - Make your repository public(It is already Public)
+ - Process data for Tableau Dashboard
+   - Created a sample Tableau Workbook named *DATA_301_Project_Solo_105*
+   - Placed the Tableau Workbook in *Tableau* folder.
+ - Create a release for the repository
+   - Created the first release *v1.0* for the repository
 
 ## Description of the topic:
 
@@ -40,8 +49,6 @@ This dataset contains some health-related information which I found very interes
 8.	Is there any impact of gender on the weight?
 9.	Are healthy weight and insurance cost related to gender or smoking habit?
 10.	What are the numbers of persons with different weight status?
-
-See the analysis [Github](https://github.com/stedy/Machine-Learning-with-R-datasets) and [kaggle](https://www.kaggle.com/mirichoi0218/insurance/home)
 
 
 ## Description of the dataset:
