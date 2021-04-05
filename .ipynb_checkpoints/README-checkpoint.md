@@ -20,7 +20,26 @@
    - Move your function into a new .py file
  - Conduct an Exploratory Data Analysis (EDA) on the dataset
  - Conduct analysis to help answer the research question(s)
+ 
+  ### Milestone 3
+ - Address project feedback(Fixed the issues provided by TA as feedback on Milestone 2)
+ - Make your repository public(It is already Public)
+ - Process data for Tableau Dashboard
+   - Created a sample Tableau Workbook named *DATA_301_Project_Solo_105(Milestone_3)*
+   - Placed the Tableau Workbook in *Tableau* folder.
+ - Create a release for the repository
+   - Created the first release *v1.0* for the repository
+   
+  ### Milestone 4
+ - Presenting your dashboard.
+   - The presentation on the project dashboard is available here....
+   
+ ### Tableau Dashboard
+ - Created the Tableau Dashboard for the Project named *Project_Solo_105.twb*
+   - Placed the Tableau Workbook in *Tableau* folder.
+ - The Tableau Dashboard for the project is available on [Tableau Online](<script type='text/javascript' src='https://us-west-2b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1366px; height: 571px;'><object class='tableauViz' width='1366' height='571' style='display:none;'><param name='host_url' value='https%3A%2F%2Fus-west-2b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;data301' /><param name='name' value='Project_Solo_105&#47;Project_Story&#47;jannat08@student.ubc.ca&#47;c4fbfa66-dff2-4066-b7f7-e2414254c36e' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>)
 
+https://us-west-2b.online.tableau.com/t/data301/views/Project_Solo_105/Project_Story/jannat08@student.ubc.ca/743605cf-0d8d-4b87-8cba-49f764d703fc?:display_count=n&:showVizHome=n&:origin=viz_share_link
 ## Description of the topic:
 
 I have chosen to work on Medical cost dataset (**insurance.csv**). I think, this dataset was primarily developed for the insurance forecast and it can help medical insurance companies to develop more accurate pricing models and plan a better insurance outcome. This Medical cost dataset contains the Medical Insurance Cost/charge of a small sample of USA population based on some attributes such as age, gender, body mass index (BMI), number of children, smoker/non-smoker, residential area. 
