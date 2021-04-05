@@ -32,7 +32,7 @@
    
   ### Milestone 4
  - Presenting your dashboard.
-   - The presentation on the project dashboard is available here....
+   - The presentation on the project dashboard is available here....(yet to upload)
    
  ## Tableau Dashboard
  - Created the Tableau Dashboard for the Project named ***Project_Solo_105.twb***
