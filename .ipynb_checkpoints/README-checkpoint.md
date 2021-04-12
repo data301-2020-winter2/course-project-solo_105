@@ -31,13 +31,13 @@
    - Created the first release *v1.0* for the repository
    
   ### Milestone 4
- - Presenting your dashboard.
-   - The presentation on the project dashboard is available here....(yet to upload)
+ - Presenting the dashboard.
+   - The presentation on the project dashboards is available on [YouTube.](https://www.youtube.com/watch?v=kFUiwPmNVQA)
    
  ## Tableau Dashboard
  - Created the Tableau Dashboard for the Project named ***Project_Solo_105.twb***
    - Placed the Tableau Workbook in *Tableau* folder.
- - The Tableau Dashboard for the project is available on [Tableau Online](https://us-west-2b.online.tableau.com/t/data301/views/Project_Solo_105/Project_Story/jannat08@student.ubc.ca/743605cf-0d8d-4b87-8cba-49f764d703fc?:display_count=n&:showVizHome=n&:origin=viz_share_link)
+ - The Tableau Dashboard for the project is available on [Tableau Online.](https://us-west-2b.online.tableau.com/t/data301/views/Project_Solo_105/Project_Story/jannat08@student.ubc.ca/743605cf-0d8d-4b87-8cba-49f764d703fc?:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
 
 ## Description of the topic:
